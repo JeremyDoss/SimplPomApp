@@ -1,0 +1,12 @@
+{
+  "name": "simple-pomodoro-timer",
+  "version": "1.0.0",
+  "description": "A simple team pomodoro timer using AngularJS and socket.io",
+  "author": "Jeremy R. Doss",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
